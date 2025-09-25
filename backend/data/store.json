@@ -1,0 +1,120 @@
+{
+  "offer": {
+    "name": "dfds",
+    "value_props": [
+      "dfsdfd"
+    ],
+    "ideal_use_cases": [
+      "fds"
+    ]
+  },
+  "leads": [
+    {
+      "name": "Alice Johnson",
+      "role": "CTO",
+      "company": "TechNova",
+      "industry": "Software",
+      "location": "San Francisco",
+      "linkedin_bio": "Experienced technology leader with expertise in SaaS."
+    },
+    {
+      "name": "Bob Smith",
+      "role": "Marketing Manager",
+      "company": "HealthPlus",
+      "industry": "Healthcare",
+      "location": "New York",
+      "linkedin_bio": "Driving digital campaigns and healthcare innovations."
+    },
+    {
+      "name": "Carol White",
+      "role": "CFO",
+      "company": "FinEdge",
+      "industry": "Finance",
+      "location": "London",
+      "linkedin_bio": "Finance executive with focus on investments and strategy."
+    },
+    {
+      "name": "David Brown",
+      "role": "Product Manager",
+      "company": "EduSmart",
+      "industry": "Education",
+      "location": "Toronto",
+      "linkedin_bio": "Building scalable edtech solutions for learning."
+    },
+    {
+      "name": "Emma Wilson",
+      "role": "CEO",
+      "company": "GreenEnergy",
+      "industry": "Energy",
+      "location": "Berlin",
+      "linkedin_bio": "Passionate about renewable energy and sustainability."
+    }
+  ],
+  "results": [
+    {
+      "name": "Alice Johnson",
+      "role": "CTO",
+      "company": "TechNova",
+      "industry": "Software",
+      "location": "San Francisco",
+      "linkedin_bio": "Experienced technology leader with expertise in SaaS.",
+      "rules_points": 10,
+      "ai_points": 30,
+      "score": 40,
+      "intent": "Medium",
+      "reasoning": "As a CTO in the software industry, Alice has the authority to make purchasing decisions, but her specific need for the dfds product and its value propositions are not clearly indicated."
+    },
+    {
+      "name": "Bob Smith",
+      "role": "Marketing Manager",
+      "company": "HealthPlus",
+      "industry": "Healthcare",
+      "location": "New York",
+      "linkedin_bio": "Driving digital campaigns and healthcare innovations.",
+      "rules_points": 10,
+      "ai_points": 30,
+      "score": 40,
+      "intent": "Medium",
+      "reasoning": "As a Marketing Manager in the healthcare industry, Bob Smith may have interest in innovations but the specific relevance of the offer to his current needs is unclear."
+    },
+    {
+      "name": "Carol White",
+      "role": "CFO",
+      "company": "FinEdge",
+      "industry": "Finance",
+      "location": "London",
+      "linkedin_bio": "Finance executive with focus on investments and strategy.",
+      "rules_points": 10,
+      "ai_points": 30,
+      "score": 40,
+      "intent": "Medium",
+      "reasoning": "As a CFO with a focus on investments and strategy, Carol may be interested in financial products, but the lack of specific alignment between her needs and the offer details makes her intent uncertain."
+    },
+    {
+      "name": "David Brown",
+      "role": "Product Manager",
+      "company": "EduSmart",
+      "industry": "Education",
+      "location": "Toronto",
+      "linkedin_bio": "Building scalable edtech solutions for learning.",
+      "rules_points": 10,
+      "ai_points": 30,
+      "score": 40,
+      "intent": "Medium",
+      "reasoning": "David Brown's role as a Product Manager in the education industry indicates potential interest in scalable solutions, but without specific alignment to the dfds offer value propositions, his intent remains uncertain."
+    },
+    {
+      "name": "Emma Wilson",
+      "role": "CEO",
+      "company": "GreenEnergy",
+      "industry": "Energy",
+      "location": "Berlin",
+      "linkedin_bio": "Passionate about renewable energy and sustainability.",
+      "rules_points": 10,
+      "ai_points": 30,
+      "score": 40,
+      "intent": "Medium",
+      "reasoning": "Emma's position as a CEO in the renewable energy industry suggests potential interest, but the specifics of the offer don't clearly align with her focus on sustainability."
+    }
+  ]
+}

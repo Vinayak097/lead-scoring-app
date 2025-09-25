@@ -1,0 +1,15 @@
+## ⚡ Live Deployment
+
+- **Frontend Demo:** [https://your-frontend.vercel.app](https://your-frontend.vercel.app)  
+- **Backend API:** [https://your-backend.onrender.com](https://your-backend.onrender.com)  
+
+
+
+## 🛠 Setup Instructions
+
+### Backend
+
+1. Go to backend folder:
+
+```bash
+cd backend
