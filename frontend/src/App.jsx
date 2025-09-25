@@ -1,7 +1,7 @@
 import { useState ,useRef} from "react";
 import axios from "axios";
 
-const API_URL = "http://localhost:4000/api";
+const API_URL = "https://lead-scoring-app-87bq.onrender.com/api";
 
 export default function App() {
    const dashboardRef = useRef(null);

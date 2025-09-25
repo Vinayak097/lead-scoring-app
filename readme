@@ -13,3 +13,19 @@
 
 ```bash
 cd backend
+npm install
+create .env file 
+OPENAI_API_KEY=your_openai_api_key
+PERSISTENCE_FILE=data.json
+PORT=4000
+npm run start
+
+
+
+--bash
+cd frontend
+npm install
+---reaplace url in app.jsx to http://localhost:4000 
+npm run dev
+
+
