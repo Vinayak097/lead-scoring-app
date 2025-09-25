@@ -3,6 +3,23 @@
 - **Frontend Demo:** https://lead-scoring-app-eight.vercel.app/
 - **Backend API:** https://lead-scoring-app-87bq.onrender.com 
 
+## API
+
+POST /offer
+Content-Type: application/json
+{
+  "name": "AI Sales Assistant",
+  "value_props": ["Automates lead qualification", "Improves sales efficiency"],
+  "ideal_use_cases": ["B2B SaaS", "Sales teams with large lead lists"]
+}
+
+POST /leads/upload
+Content-Type: multipart/form-data
+File: leads.csv
+
+GET /results
+
+
 
 
 ## 🛠 Setup Instructions
